@@ -1,0 +1,43 @@
+body{
+   background:whitesmoke;
+   margin:0;
+
+}
+.top{
+    background:black;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: white;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.circle{
+    background: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.wow{
+    background:rgba(255, 255, 255, 0.349);
+    color:black;
+    margin: 10px;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.06),;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   justify-content: center;
+   align-items: center;
+    
+}
+h1{
+   text-align: center;
+}
